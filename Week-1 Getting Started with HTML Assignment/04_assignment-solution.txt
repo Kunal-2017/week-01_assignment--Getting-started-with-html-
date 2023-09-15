@@ -1,0 +1,7 @@
+Que. Write a short note on Tag and element with an example?
+
+Sol.
+HTML Tag : HTML tags are the keywords on a web page that defines how your web browser must format and display your web page.They are building blocks of HTML. It can not be nested.Almost all tags contain two parts,an opening,and a closing tag.For example,<html> is the opening tag and </html> is the closing tag.
+
+HTML Element : HTML Element includes a start tag,content,and an end tag. These are components of the web pages.For example,<p> is the opening tag and </p> is the closing tag and some content are present between them.
+Ex: <p> This is a Paragraph text.</p>
